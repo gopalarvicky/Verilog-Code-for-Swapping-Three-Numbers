@@ -73,6 +73,7 @@ module tb_swap_three_numbers;
 
 endmodule
 ```
+![image](https://github.com/user-attachments/assets/3c42b21c-d6ab-443b-9424-09d969837ca8)
 
 
 Conclusion
