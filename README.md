@@ -30,6 +30,7 @@ Capture the waveform output and include the results in your report for verificat
 
 Verilog Code:
 
+```verilog
 module swap_three_numbers(
 input [7:0] a, b, c,   
 output reg [7:0] a_out, b_out, c_out 
@@ -42,6 +43,7 @@ always @(*) begin
 end
 
 endmodule
+```
 
 Testbench for Swapping Three Numbers:
 
